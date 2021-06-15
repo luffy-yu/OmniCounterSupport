@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/06/15/logo120x120.png"
   navigation:
+  - link: Privacy Policy
+    link_text: privacy_policy.html
   - link: "/"
     link_text: Home
   - link: "#swap"
