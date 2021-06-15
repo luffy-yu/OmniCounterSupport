@@ -80,11 +80,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: Homepage
-    link_text: Homepage
-  logo: ''
 
 ---
