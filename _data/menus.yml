@@ -1,5 +1,8 @@
 ---
 main:
+- url: https://www.chuange.org
+  weight: 2
+  title: About Author
 - identifier: home
   url: "/"
   weight: 1
