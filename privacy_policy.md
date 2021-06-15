@@ -4,8 +4,7 @@ heading: "<strong>Privacy Policy for OmniCounter</strong>"
 published: false
 
 ---
-
-# Privacy Policy
+## Privacy Policy
 
 Last updated: June 10, 2021
 
