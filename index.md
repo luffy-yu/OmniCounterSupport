@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/06/15/logo120x120.png"
+  logo: "/uploads/2021/06/20/wechatimg481.png"
   navigation:
   - link: "/"
     link_text: Home
